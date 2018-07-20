@@ -1,0 +1,5 @@
+.settings-view-design [data-test-upload-theme-button],
+.view-team .view-actions .gh-btn,
+[data-test-theme-download-button] {
+  display: none;
+}
